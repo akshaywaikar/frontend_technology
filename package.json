@@ -1,0 +1,19 @@
+{
+  "name": "frontend_technology",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akshaywaikar/frontend_technology.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akshaywaikar/frontend_technology/issues"
+  },
+  "homepage": "https://github.com/akshaywaikar/frontend_technology#readme"
+}
